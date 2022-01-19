@@ -1,2 +1,2 @@
-# War App
-<h2> Card Game <h2>
+# War Application
+Card Game
