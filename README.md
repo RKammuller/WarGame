@@ -1,2 +1,3 @@
 # War Application
-Card Game
+Card Game <br>
+Copy and paste ContentView into Xcode then "Run" Application on iPhone 11. 
